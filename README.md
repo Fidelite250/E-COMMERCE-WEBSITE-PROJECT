@@ -92,13 +92,13 @@ To become a trusted and leading online technology store in Rwanda and beyond.
 # Screenshots
 
 ## Homepage
-
+<img width="1914" height="865" alt="HOME" src="https://github.com/user-attachments/assets/ff597fe2-0190-46ed-8663-ee9a59fa6616" />
 
 ## Product Page
-![Uploading PRODUCT.JPG…]()
-
+<img width="1911" height="856" alt="PRODUCT" src="https://github.com/user-attachments/assets/ad91bc64-ade7-410d-906c-df6ba9f6593f" />
 
 ## Contact Page
+<img width="1920" height="862" alt="CONTACT" src="https://github.com/user-attachments/assets/daecf796-05c0-43e0-ad5e-ac0467821f7e" />
 
 
 
