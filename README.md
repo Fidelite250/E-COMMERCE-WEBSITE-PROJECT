@@ -1,4 +1,3 @@
-# MJL TECHNOLOGY LTD
 
 ## Student Information
 - **Student Name:** Fidelite Fabiola Munezero
